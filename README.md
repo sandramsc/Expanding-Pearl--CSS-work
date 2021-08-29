@@ -2,7 +2,7 @@
 <!-- PROJECT TITLE -->
   <h1 align="center">Expanding-Pearl</h1>
  <h2 2 align="center">
-    100DaysOfCode project_ONE
+    100DaysOfCode project_one
     <br />
     </h2>
 
